@@ -29,4 +29,5 @@ The below dashboard was created in Power BI to visualise the data extracted in S
 
 Just a quick summary of the visuals (as of 24/08/2021):
 1. Global summary of cases, deaths and mortality rate.
-2. 
+2. Deaths by continent in descending order.
+3. A global map of total infections as percentage of population (red = higher, blue = lower, white = no data).
