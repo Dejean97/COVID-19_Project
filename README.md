@@ -1,4 +1,4 @@
-# COVID_Project
+# COVID-19_Project
 
 This aim of this project was to take some 'real-life' data and draw insight to get an overview of the COVID-19 situation globally. This involved the use of SQL and Power BI.
 
