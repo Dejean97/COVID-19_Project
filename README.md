@@ -13,10 +13,12 @@ Having downloaded the data of interest, the data was split into two sets (one co
 ### Steps in SQL
 
 - From here the data was explored before building queries and views for easy visualisation.
-- Most notable examples are the queries that produced a rolling percentage of infected as a portion of the population by location and the other involving the use of a view to create a ranking system for how each country "dealt" with COVID-19. 
-  - This created figures based on the countries total cases, deaths, tests, vaccinations and fully vaccinated people as a percentage of their total population (as of the end of August '21).
-  - Cases and deaths as a percentage of total population were ranked in ascending order whilst tests, vaccinations and fully vaccinated people as a percentage of total population were ranked in descending order (meaning overall a lower rank was better in all measures).
-  - Using percentages of total population meant that countries of varying sizes could be reasonably compared.
-  - These ranks were them summed and countries were ranked by this sum to produce an overall rank.
+- Most notable examples are:
+  -  The query tho produce a rolling percentage of infected as a portion of the population by location.
+  -  A view to create a ranking system for how each country "dealt" with COVID-19. 
+    - This created figures based on the countries total cases, deaths, tests, vaccinations and fully vaccinated people as a percentage of their total population (as of the end of August '21).
+    - Cases and deaths as a percentage of total population were ranked in ascending order whilst tests, vaccinations and fully vaccinated people as a percentage of total population were ranked in descending order (meaning overall a lower rank was better in all measures).
+    - Using percentages of total population meant that countries of varying sizes could be reasonably compared.
+    - These ranks were them summed and countries were ranked by this sum to produce an overall rank.
 
 ### Steps in Power BI
