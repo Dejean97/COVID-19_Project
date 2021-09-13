@@ -40,4 +40,4 @@ Just a quick summary of the visuals (as of 24/08/2021):
 
 ### Roundup
 
-Overall, this project served to allow me to work with some real world data and flex some skills I already. It's not the most robust analysis but I believe it holds value in that the visualisation tells a reasonable story that can be easily understand. Additionally, I feel like if this reaches the right eyes it could spark some good questions and really quite exciting analysis.
+Overall, this project served to allow me to work with some real world data and flex some skills I already had in SQL and Power BI. It's not the most robust analysis but I believe it holds value in that the visualisation tells a reasonable story that can be easily understand. Additionally, I feel like if this reaches the right eyes it could spark some good questions and really quite exciting analysis.
