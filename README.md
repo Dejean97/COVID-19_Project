@@ -23,4 +23,10 @@ Having downloaded the data of interest, the data was split into two sets (one co
 
 ### Actions in Power BI
 
-![alt text](https://github.com/Dejean97/COVID_Project/blob/4e45a89472155ec6ba7acbd88a652a31880ca1ab/Dashboard%20Screenshot.png)
+The below dashboard was created in Power BI to visualise the data extracted in SQL.
+
+(https://github.com/Dejean97/COVID_Project/blob/4e45a89472155ec6ba7acbd88a652a31880ca1ab/Dashboard%20Screenshot.png)
+
+Just a quick summary of the visuals (as of 24/08/2021):
+1. Global summary of cases, deaths and mortality rate.
+2. 
