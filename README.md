@@ -38,4 +38,6 @@ Just a quick summary of the visuals (as of 24/08/2021):
     - We can see that overall Germany ranked fairly well in 24th globablly.
     - Also, the UK clearly made a huge effort in testing placing 7th globally.
 
+### Roundup
+
 Overall, this project served to allow me to work with some real world data and flex some skills I already. It's not the most robust analysis but I believe it holds value in that the visualisation tells a reasonable story that can be easily understand. Additionally, I feel like if this reaches the right eyes it could spark some good questions and really quite exciting analysis.
