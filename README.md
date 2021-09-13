@@ -36,6 +36,6 @@ Just a quick summary of the visuals (as of 24/08/2021):
    - As I'm from the UK I thought it would be interesting to add constant lines on the x axis to show lockdowns, potentially indicating whether they effective in slowing down cases (dates from Institute for Government [site](https://www.instituteforgovernment.org.uk/charts/uk-government-coronavirus-lockdowns)).
 5. Two tables to show how the same 5 countries ranked for cases, deaths, tests, vaccinations and fully vaccinated people as a percentage of total population. This was split into two tables for readability.
     - We can see that overall Germany ranked fairly well in 24th globablly.
-    - Also notably the UK clearly made a huge effort in testing placing 7th globally.
+    - Also, the UK clearly made a huge effort in testing placing 7th globally.
 
 Overall, this project served to allow me to work with some real world data and flex some skills I already. It's not the most robust analysis but I believe it holds value in that the visualisation tells a reasonable story that can be easily understand. Additionally, I feel like if this reaches the right eyes it could spark some good questions and really quite exciting analysis.
