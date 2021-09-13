@@ -10,7 +10,7 @@ The data used for this project came from the Our World in Data blog [post](https
 
 Having downloaded the data of interest, the data was split into two sets (one containing data relating to cases, deaths and hospital admissions and the other relating to testing and vaccinations). There is no real reason to do this other than to practice JOINS in SQL.
 
-### Steps in SQL
+### Actions in SQL
 
 - From here the data was explored before building queries and views for easy visualisation.
 - Most notable examples are:
@@ -21,4 +21,6 @@ Having downloaded the data of interest, the data was split into two sets (one co
     3. Using percentages of total population meant that countries of varying sizes could be reasonably compared.
     4. These ranks were them summed and countries were ranked by this sum to produce an overall rank.
 
-### Steps in Power BI
+### Actions in Power BI
+
+![alt text](https://github.com/Dejean97/COVID_Project/blob/4e45a89472155ec6ba7acbd88a652a31880ca1ab/Dashboard%20Screenshot.png)
