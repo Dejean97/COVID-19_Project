@@ -34,3 +34,4 @@ Just a quick summary of the visuals (as of 24/08/2021):
 4. A rolling view of cases as % of total population from 01/01/2020 to 24/08/2021.
    - 5 countries were selected for visualisation (Germany, Italy, Poland, UK, USA).
    - As I'm from the UK I thought it would be interesting to add constant lines on the x axis to show lockdowns, potentially indicating whether they effective in slowing down cases (dates from Institute for Government [site](https://www.instituteforgovernment.org.uk/charts/uk-government-coronavirus-lockdowns)).
+6. Two tables
