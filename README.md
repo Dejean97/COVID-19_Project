@@ -16,9 +16,9 @@ Having downloaded the data of interest, the data was split into two sets (one co
 - Most notable examples are:
   -  The query tho produce a rolling percentage of infected as a portion of the population by location.
   -  A view to create a ranking system for how each country "dealt" with COVID-19. 
-    - This created figures based on the countries total cases, deaths, tests, vaccinations and fully vaccinated people as a percentage of their total population (as of the end of August '21).
-    - Cases and deaths as a percentage of total population were ranked in ascending order whilst tests, vaccinations and fully vaccinated people as a percentage of total population were ranked in descending order (meaning overall a lower rank was better in all measures).
-    - Using percentages of total population meant that countries of varying sizes could be reasonably compared.
-    - These ranks were them summed and countries were ranked by this sum to produce an overall rank.
+    1. This created figures based on the countries total cases, deaths, tests, vaccinations and fully vaccinated people as a percentage of their total population (as of the end of August '21).
+    2. Cases and deaths as a percentage of total population were ranked in ascending order whilst tests, vaccinations and fully vaccinated people as a percentage of total population were ranked in descending order (meaning overall a lower rank was better in all measures).
+    3. Using percentages of total population meant that countries of varying sizes could be reasonably compared.
+    4. These ranks were them summed and countries were ranked by this sum to produce an overall rank.
 
 ### Steps in Power BI
