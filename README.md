@@ -6,7 +6,7 @@ Inspiration for this project came from [Alex The Analyst's](https://www.youtube.
 
 The data used for this project came from the Our World in Data blog [post](https://ourworldindata.org/covid-deaths) that tracks and visualises COVID-19 related data.
 
-## Project Summary
+## Project Overview
 
 Having downloaded the data of interest, the data was split into two sets (one containing data relating to cases, deaths and hospital admissions and the other relating to testing and vaccinations). There is no real reason to do this other than to practice JOINS in SQL.
 
