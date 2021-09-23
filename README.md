@@ -8,7 +8,7 @@ The data used for this project came from the Our World in Data blog [post](https
 
 ## Project Overview
 
-Having downloaded the data of interest, the data was split into two sets (one containing data relating to cases, deaths and hospital admissions and the other relating to testing and vaccinations). There is no real reason to do this other than to practice JOINS in SQL.
+Having downloaded the data of interest, the data was split into two sets (one containing data relating to cases, deaths and hospital admissions and the other relating to testing and vaccinations) and imported into Microsoft SQL Server. There is no real reason to do this other than to practice JOINS in SQL.
 
 ### Actions in SQL
 
